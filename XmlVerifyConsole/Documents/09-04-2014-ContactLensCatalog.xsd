@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" >
+   <xsd:element name="VW_SOFTCONTACT_CATALOG">
+          <xsd:complexType>
+            <xsd:sequence>
+               <xsd:element name="MANUFACTURER" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element name="UNITS" minOccurs="0" maxOccurs="unbounded">
+                      <xsd:complexType>
+                        <xsd:attribute name="UNT_ID"  use="required">
+													<xsd:simpleType>
+														 <xsd:restriction base="xsd:string">
+																<xsd:maxLength value="14" />
+														 </xsd:restriction>
+													 </xsd:simpleType>
+												</xsd:attribute>
+                        <xsd:attribute name="UNT_NAME" use="required">
+													<xsd:simpleType>
+														 <xsd:restriction base="xsd:string">
+																<xsd:maxLength value="15" />
+														 </xsd:restriction>
+													 </xsd:simpleType>
+												</xsd:attribute>
+                        <xsd:attribute name="UNT_PATIENT_VISIBLE" use="required">
+													<xsd:simpleType>
+														<xsd:restriction base="xsd:integer"/>
+													</xsd:simpleType>
+												</xsd:attribute>
+                        <xsd:attribute name="UNT_LENS_QTTY" use="required">
+													<xsd:simpleType>
+														<xsd:restriction base="xsd:integer"/>
+													</xsd:simpleType>
+												</xsd:attribute>
+                        <xsd:attribute name="UNT_PACK_QTTY" use="required">
+													<xsd:simpleType>
+														<xsd:restriction base="xsd:integer"/>
+													</xsd:simpleType>
+												</xsd:attribute>
+                      </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="SERIES" minOccurs="0" maxOccurs="unbounded">
+                      <xsd:complexType>
+                        <xsd:sequence>
+                          <xsd:element name="PRODUCT_FAMILY" minOccurs="0" maxOccurs="unbounded">
+                            <xsd:complexType>
+                              <xsd:sequence>
+                                <xsd:element name="PRODUCTS" minOccurs="0" maxOccurs="unbounded">
+                                  <xsd:complexType>
+                                    <xsd:attribute name="PRD_ID" use="required">
+																			<xsd:simpleType>
+																				 <xsd:restriction base="xsd:string">
+																						<xsd:maxLength value="24" />
+																				 </xsd:restriction>
+																			 </xsd:simpleType>
+																		</xsd:attribute>
+                                    <xsd:attribute name="PRD_UPC_CODE" use="required"  >
+																			<xsd:simpleType >
+																				 <xsd:restriction base="xsd:string" >
+                                           <xsd:minLength value="1"  />
+                                           <xsd:maxLength value="12" />                                      
+																				 </xsd:restriction>
+																			 </xsd:simpleType>
+																		</xsd:attribute>
+                                                                      
+                                    <xsd:attribute name="PRD_CHECKDIGIT" use="optional">
+																			<xsd:simpleType>
+																				 <xsd:restriction base="xsd:string">
+																						<xsd:maxLength value="10" />
+																				 </xsd:restriction>
+																			 </xsd:simpleType>
+																		</xsd:attribute>
+                                    <xsd:attribute name="PRD_DESCRIPTION" use="optional">
+																			<xsd:simpleType>
+																				 <xsd:restriction base="xsd:string">
+																						<xsd:maxLength value="60" />
+																				 </xsd:restriction>
+																			 </xsd:simpleType>
+																		</xsd:attribute>
+                                    <xsd:attribute name="PRD_POWER" use="required">
+																			<xsd:simpleType>
+																				<xsd:restriction base="xsd:float">
+																					<xsd:minInclusive value="-99.75"/>
+																					<xsd:maxInclusive value="99.75"/>
+																				</xsd:restriction>
+																			</xsd:simpleType>
+																		</xsd:attribute>
+                                    <xsd:attribute name="PRD_ADDITION" use="required">
+																			<xsd:simpleType>
+																				<xsd:restriction base="xsd:float">
+																					<xsd:minInclusive value="0"/>
+																					<xsd:maxInclusive value="99.75"/>
+																				</xsd:restriction>
+																			</xsd:simpleType>
+																		</xsd:attribute>
+                                    <xsd:attribute name="PRD_ADDITION_TXT" use="optional">
+																		  <xsd:simpleType>
+																		  	<xsd:restriction base="xsd:string">
+																		  		<xsd:enumeration value="HIGH" />
+																		  		<xsd:enumeration value="LOW" />
+                                          <xsd:enumeration value="PROG" />
+                                          <!-- added 3-17-2009 -->
+                                          <xsd:enumeration value="MED" />
+                                          <xsd:enumeration value="MID" />
+                                          <!-- added 1/26/2015 for Hybrid Lenses -->
+                                          <xsd:enumeration value="STD" />
+																		  	</xsd:restriction>
+																		  </xsd:simpleType>
+																		</xsd:attribute>
+                                    <xsd:attribute name="PRD_CYLINDER" use="required">
+																			<xsd:simpleType>
+																				<xsd:restriction base="xsd:float">
+																					<xsd:minInclusive value="-99.75"/>
+																					<xsd:maxInclusive value="99.75"/>
+																				</xsd:restriction>
+																			</xsd:simpleType>
+																		</xsd:attribute>
+                                    <xsd:attribute name="PRD_AXIS" use="required">
+																			<xsd:simpleType>
+																				<xsd:restriction base="xsd:integer">
+																					<xsd:minInclusive value="0"/>
+																					<xsd:maxInclusive value="180"/>
+																				</xsd:restriction>
+																			</xsd:simpleType>
+																		</xsd:attribute>
+                                    <xsd:attribute name="PRD_COLOR" use="optional">
+																			<xsd:simpleType>
+																				 <xsd:restriction base="xsd:string">
+																						<xsd:maxLength value="30" />
+																				 </xsd:restriction>
+																			 </xsd:simpleType>
+																		</xsd:attribute>
+                                    <xsd:attribute name="PRD_CONVERT" use="optional">
+																			<xsd:simpleType>
+																				 <xsd:restriction base="xsd:string">
+																						<xsd:maxLength value="20" />
+																				 </xsd:restriction>
+																			 </xsd:simpleType>
+																		</xsd:attribute>
+																		<!-- Added New field on 07-29-2008 -->
+																		<xsd:attribute name="PRD_MSRP" use="required">
+																			<xsd:simpleType>
+																				<xsd:restriction base="xsd:float">
+																					<xsd:minInclusive value="000.00"/>
+																					<xsd:maxInclusive value="999.99"/>
+																				</xsd:restriction>
+																			</xsd:simpleType>
+																		</xsd:attribute>
+																		<!-- Added New field on 07-29-2008 -->
+																		<xsd:attribute name="PRD_COST" use="required">
+																			<xsd:simpleType>
+																				<xsd:restriction base="xsd:float">
+																					<xsd:minInclusive value="000.00"/>
+																					<xsd:maxInclusive value="999.99"/>
+																				</xsd:restriction>
+																			</xsd:simpleType>
+																		</xsd:attribute>
+																		<xsd:attribute name="UNT_ID" use="required">
+																			<xsd:simpleType>
+																				 <xsd:restriction base="xsd:string">
+																						<xsd:maxLength value="14" />
+																				 </xsd:restriction>
+																			 </xsd:simpleType>
+																		</xsd:attribute>
+                                    <!-- Added New Field on 09-04-2014-->
+                                    <xsd:attribute name="PRD_SKIRTCURVE" use="optional">
+                                      <xsd:simpleType>
+                                        <xsd:restriction base="xsd:string">
+                                          <xsd:maxLength value="20" />
+                                        </xsd:restriction>
+                                      </xsd:simpleType>
+                                    </xsd:attribute>
+                                    <!-- Added New Field on 09-04-2014-->
+                                    <xsd:attribute name="PRD_ZONE" use="optional">
+                                      <xsd:simpleType>
+                                        <xsd:restriction base="xsd:string">
+                                          <xsd:maxLength value="20" />
+                                        </xsd:restriction>
+                                      </xsd:simpleType>
+                                    </xsd:attribute>
+                                    <!-- Added New Field on 09-04-2014-->
+                                    <xsd:attribute name="PRD_LIFT" use="optional">
+                                      <xsd:simpleType>
+                                        <xsd:restriction base="xsd:string">
+                                          <xsd:maxLength value="20" />
+                                        </xsd:restriction>
+                                      </xsd:simpleType>
+                                    </xsd:attribute>
+                                    <!-- Added New Field on 09-04-2014-->
+                                    <xsd:attribute name="PRD_SEGMENT" use="optional">
+                                      <xsd:simpleType>
+                                        <xsd:restriction base="xsd:string">
+                                          <xsd:maxLength value="20" />
+                                        </xsd:restriction>
+                                      </xsd:simpleType>
+                                    </xsd:attribute>
+                                    
+                                  </xsd:complexType>
+                                </xsd:element>
+
+                                <xsd:element name="ELIGIBILITY" minOccurs="0" maxOccurs="unbounded">
+                                  <xsd:complexType>
+                                    <xsd:attribute name="SHP_ID" use="required">
+																			<xsd:simpleType>
+																				 <xsd:restriction base="xsd:string">
+																						<xsd:maxLength value="20" />
+																				 </xsd:restriction>
+																			 </xsd:simpleType>
+																		</xsd:attribute>
+                                  </xsd:complexType>
+                                </xsd:element>
+                              </xsd:sequence>
+                              <xsd:attribute name="PRF_ID" use="required">
+																<xsd:simpleType>
+																	 <xsd:restriction base="xsd:string">
+																			<xsd:maxLength value="20" />
+																	 </xsd:restriction>
+																 </xsd:simpleType>
+															</xsd:attribute>
+                              <xsd:attribute name="PRF_REV_DIAG_IND" use="optional">
+																<xsd:simpleType>
+																	 <xsd:restriction base="xsd:string">
+																			<xsd:maxLength value="1" />
+																	 </xsd:restriction>
+																 </xsd:simpleType>
+															</xsd:attribute>
+                              <xsd:attribute name="PRF_BASECURVE" use="required">
+																			<xsd:simpleType>
+																				<xsd:restriction base="xsd:float">
+																					<xsd:minInclusive value="-799.750"/>
+																					<xsd:maxInclusive value="799.750"/>
+																				</xsd:restriction>
+																			</xsd:simpleType>
+																		</xsd:attribute>
+                              <xsd:attribute name="PRF_BASECURVE_TXT" use="optional">
+                                <xsd:simpleType>
+                                  <xsd:restriction base="xsd:string">
+                                    <xsd:maxLength value="20" />
+                                  </xsd:restriction>
+                                </xsd:simpleType>
+                              </xsd:attribute>
+                              <xsd:attribute name="PRF_DIAMETER" use="required">
+																			<xsd:simpleType>
+																				<xsd:restriction base="xsd:float">
+																					<xsd:minInclusive value="-99.75"/>
+																					<xsd:maxInclusive value="99.75"/>
+																				</xsd:restriction>
+																			</xsd:simpleType>
+															</xsd:attribute>
+                              <xsd:attribute name="PRF_CONVERT" use="optional">
+																<xsd:simpleType>
+																	 <xsd:restriction base="xsd:string">
+																			<xsd:maxLength value="28" />
+																	 </xsd:restriction>
+																 </xsd:simpleType>
+															</xsd:attribute>
+                            </xsd:complexType>
+                          </xsd:element>
+                        </xsd:sequence>
+                        <xsd:attribute name="SER_ID" use="required">
+													<xsd:simpleType>
+														 <xsd:restriction base="xsd:string">
+																<xsd:maxLength value="14" />
+														 </xsd:restriction>
+													 </xsd:simpleType>
+												</xsd:attribute>
+                        <xsd:attribute name="SER_NAME" use="required">
+													<xsd:simpleType>
+														 <xsd:restriction base="xsd:string">
+																<xsd:maxLength value="60" />
+														 </xsd:restriction>
+													 </xsd:simpleType>
+												</xsd:attribute>
+                        <!-- 11-09-2009 Update -->
+                        <xsd:attribute name="STY_ID" use="required">
+													<xsd:simpleType>
+														 <xsd:restriction base="xsd:string">
+                               <xsd:enumeration value="SPH" />
+                               <xsd:enumeration value="TOR" />
+                               <xsd:enumeration value="BIF" />
+                               <xsd:enumeration value="HS" />
+                               <xsd:enumeration value="MFH" />
+                               <xsd:enumeration value="FMT" />
+														 </xsd:restriction>
+													 </xsd:simpleType>
+												</xsd:attribute>
+                        <xsd:attribute name="SER_DAY_PER_LENS" use="required">
+													<xsd:simpleType>
+														<xsd:restriction base="xsd:integer"/>
+													</xsd:simpleType>
+												</xsd:attribute>
+                        <xsd:attribute name="SER_CUSTOM" use="optional">
+                          <xsd:simpleType>
+                            <xsd:restriction base="xsd:string">
+                              <xsd:enumeration value="True" />
+                              <xsd:enumeration value="False" />                              
+                            </xsd:restriction>
+                          </xsd:simpleType>
+                        </xsd:attribute>
+                      </xsd:complexType>
+                    </xsd:element>
+                  </xsd:sequence>
+                  <xsd:attribute name="MAN_ID"  use="required">
+                  		<xsd:simpleType>
+									       <xsd:restriction base="xsd:string">
+									          <xsd:maxLength value="8" />
+									       </xsd:restriction>
+									     </xsd:simpleType>
+    							</xsd:attribute>
+                  <xsd:attribute name="MAN_NAME" use="required">
+                  		<xsd:simpleType>
+									       <xsd:restriction base="xsd:string">
+									          <xsd:maxLength value="40" />
+									       </xsd:restriction>
+									     </xsd:simpleType>
+    							</xsd:attribute>
+                </xsd:complexType>
+              </xsd:element>
+              <xsd:element name="DELIVERY_METHOD" minOccurs="0" maxOccurs="unbounded">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element name="DELIVERY_RANGE" minOccurs="0" maxOccurs="unbounded">
+                      <xsd:complexType>
+                        <xsd:attribute name="DRG_TYPE" use="required">
+														<xsd:simpleType>
+															 <xsd:restriction base="xsd:string">
+																	<xsd:maxLength value="10" />
+															 </xsd:restriction>
+														 </xsd:simpleType>
+												</xsd:attribute>
+                        <xsd:attribute name="DRG_FROM"  use="required">
+													<xsd:simpleType>
+														<xsd:restriction base="xsd:integer"/>
+													</xsd:simpleType>
+												</xsd:attribute>
+                        <xsd:attribute name="DRG_TO"  use="required">
+													<xsd:simpleType>
+														<xsd:restriction base="xsd:integer"/>
+													</xsd:simpleType>
+												</xsd:attribute>
+                        <xsd:attribute name="DRG_COST" use="required">
+														<xsd:simpleType>
+															 <xsd:restriction base="xsd:string">
+																	<xsd:maxLength value="8" />
+															 </xsd:restriction>
+														 </xsd:simpleType>
+												</xsd:attribute>
+                      </xsd:complexType>
+                    </xsd:element>
+                  </xsd:sequence>
+                  <xsd:attribute name="DEL_ID" use="required">
+                  		<xsd:simpleType>
+									       <xsd:restriction base="xsd:string">
+									          <xsd:maxLength value="12" />
+									       </xsd:restriction>
+									     </xsd:simpleType>
+    							</xsd:attribute>
+                  <xsd:attribute name="DEL_NAME" use="required">
+                  		<xsd:simpleType>
+									       <xsd:restriction base="xsd:string">
+									          <xsd:maxLength value="50" />
+									       </xsd:restriction>
+									     </xsd:simpleType>
+    							</xsd:attribute>
+                  <xsd:attribute name="DEL_ORDER" use="required">
+											<xsd:simpleType>
+												<xsd:restriction base="xsd:integer"/>
+											</xsd:simpleType>
+									</xsd:attribute>
+                  <xsd:attribute name="DEL_CONVERT" use="required">
+                  		<xsd:simpleType>
+									       <xsd:restriction base="xsd:string">
+									          <xsd:maxLength value="20" />
+									       </xsd:restriction>
+									     </xsd:simpleType>
+    							</xsd:attribute>
+                </xsd:complexType>
+              </xsd:element>
+            </xsd:sequence>
+          </xsd:complexType>
+        </xsd:element>
+
+</xsd:schema>

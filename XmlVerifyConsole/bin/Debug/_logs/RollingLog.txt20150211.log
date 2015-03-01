@@ -1,0 +1,552 @@
+2015-02-11 09:46:21,155 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 747, position: 50
+
+2015-02-11 09:46:21,226 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 1229, position: 51
+
+2015-02-11 09:46:21,231 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 1646, position: 52
+
+2015-02-11 09:46:21,234 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 1870, position: 49
+
+2015-02-11 09:46:21,235 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 1946, position: 53
+
+2015-02-11 09:46:21,238 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 2152, position: 51
+
+2015-02-11 09:46:21,238 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 2154, position: 51
+
+2015-02-11 09:46:21,241 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 2355, position: 50
+
+2015-02-11 09:46:21,242 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 2376, position: 51
+
+2015-02-11 09:46:21,245 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 2610, position: 52
+
+2015-02-11 09:46:21,259 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 3338, position: 52
+
+2015-02-11 09:46:21,264 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 3694, position: 50
+
+2015-02-11 09:46:21,271 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 4263, position: 51
+
+2015-02-11 09:46:21,272 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 4318, position: 52
+
+2015-02-11 09:46:21,283 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 5276, position: 51
+
+2015-02-11 09:46:21,285 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 5418, position: 52
+
+2015-02-11 09:46:21,293 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 6049, position: 52
+
+2015-02-11 09:46:21,294 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 6089, position: 51
+
+2015-02-11 09:46:21,302 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 6768, position: 51
+
+2015-02-11 09:46:21,305 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 7026, position: 52
+
+2015-02-11 09:46:21,308 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 7240, position: 51
+
+2015-02-11 09:46:21,310 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 7357, position: 51
+
+2015-02-11 09:46:21,313 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 7555, position: 51
+
+2015-02-11 09:46:21,315 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 7744, position: 50
+
+2015-02-11 09:46:21,320 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 8060, position: 51
+
+2015-02-11 09:46:21,322 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 8275, position: 52
+
+2015-02-11 09:46:21,324 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 8359, position: 51
+
+2015-02-11 09:46:21,334 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 9164, position: 52
+
+2015-02-11 09:46:21,337 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 9423, position: 51
+
+2015-02-11 09:46:21,344 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 9913, position: 52
+
+2015-02-11 09:46:21,359 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 11225, position: 53
+
+2015-02-11 09:46:21,364 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 11541, position: 53
+
+2015-02-11 09:46:21,367 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 11849, position: 52
+
+2015-02-11 09:46:21,373 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 12355, position: 53
+
+2015-02-11 09:46:21,375 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_ID' attribute is invalid - The value 'PMT684144D-1300-175150200' is invalid according to its datatype 'String' - The actual length is greater than the MaxLength value.> Occurred on line: 12473, position: 19
+
+2015-02-11 09:46:21,375 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 12473, position: 54
+
+2015-02-11 09:46:21,377 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 12573, position: 52
+
+2015-02-11 09:46:21,378 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 12661, position: 53
+
+2015-02-11 09:46:21,390 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 13704, position: 53
+
+2015-02-11 09:46:21,395 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 14098, position: 52
+
+2015-02-11 09:46:21,405 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 14928, position: 52
+
+2015-02-11 09:46:21,411 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 15460, position: 52
+
+2015-02-11 09:46:21,416 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 15822, position: 52
+
+2015-02-11 09:46:21,419 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 16092, position: 53
+
+2015-02-11 09:46:21,422 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 16350, position: 53
+
+2015-02-11 09:46:21,435 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 17484, position: 53
+
+2015-02-11 09:46:21,451 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 18154, position: 52
+
+2015-02-11 09:46:21,476 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 20171, position: 52
+
+2015-02-11 09:46:21,479 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 20443, position: 53
+
+2015-02-11 09:46:21,486 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 20981, position: 52
+
+2015-02-11 09:46:21,501 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 22311, position: 53
+
+2015-02-11 09:46:21,517 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 23675, position: 53
+
+2015-02-11 09:46:21,522 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 24058, position: 52
+
+2015-02-11 09:46:21,525 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 24316, position: 53
+
+2015-02-11 09:46:21,526 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 24326, position: 53
+
+2015-02-11 09:46:21,528 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 24482, position: 53
+
+2015-02-11 09:46:21,534 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 24941, position: 51
+
+2015-02-11 09:46:21,540 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 25402, position: 53
+
+2015-02-11 09:46:21,540 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 25423, position: 53
+
+2015-02-11 09:46:21,548 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 26072, position: 53
+
+2015-02-11 09:46:21,549 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 26156, position: 50
+
+2015-02-11 09:46:21,550 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 26229, position: 53
+
+2015-02-11 09:46:21,553 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 26394, position: 53
+
+2015-02-11 09:46:21,568 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 27798, position: 50
+
+2015-02-11 09:46:21,570 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 27934, position: 51
+
+2015-02-11 09:46:21,571 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 28017, position: 50
+
+2015-02-11 09:46:21,572 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 28061, position: 50
+
+2015-02-11 09:46:21,573 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 28073, position: 50
+
+2015-02-11 09:46:21,575 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 28290, position: 51
+
+2015-02-11 09:46:21,576 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 28300, position: 51
+
+2015-02-11 09:46:21,582 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 28806, position: 51
+
+2015-02-11 09:46:21,583 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 28885, position: 51
+
+2015-02-11 09:46:21,583 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 28892, position: 52
+
+2015-02-11 09:46:21,587 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 29231, position: 52
+
+2015-02-11 09:46:21,588 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 29259, position: 51
+
+2015-02-11 09:46:21,593 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 29640, position: 51
+
+2015-02-11 09:46:21,595 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 29788, position: 51
+
+2015-02-11 09:46:21,596 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 29891, position: 48
+
+2015-02-11 09:46:21,606 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 30780, position: 51
+
+2015-02-11 09:46:21,609 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 31025, position: 52
+
+2015-02-11 09:46:21,611 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 31152, position: 52
+
+2015-02-11 09:46:21,613 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 31239, position: 50
+
+2015-02-11 09:46:21,615 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 31459, position: 52
+
+2015-02-11 09:46:21,626 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 32437, position: 52
+
+2015-02-11 09:46:21,631 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 32848, position: 51
+
+2015-02-11 09:46:21,638 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 33371, position: 51
+
+2015-02-11 09:46:21,643 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 33789, position: 51
+
+2015-02-11 09:46:21,644 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 33849, position: 50
+
+2015-02-11 09:46:21,649 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 34260, position: 51
+
+2015-02-11 09:46:21,653 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 34561, position: 52
+
+2015-02-11 09:46:21,654 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 34671, position: 49
+
+2015-02-11 09:46:21,657 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 34864, position: 52
+
+2015-02-11 09:46:21,658 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 34927, position: 52
+
+2015-02-11 09:46:21,658 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 34942, position: 52
+
+2015-02-11 09:46:21,659 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 34961, position: 51
+
+2015-02-11 09:46:21,662 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 35216, position: 51
+
+2015-02-11 09:46:21,668 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 35740, position: 50
+
+2015-02-11 09:46:21,669 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 35791, position: 51
+
+2015-02-11 09:46:21,672 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 36016, position: 52
+
+2015-02-11 09:46:21,675 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 36302, position: 51
+
+2015-02-11 09:46:21,682 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 36896, position: 53
+
+2015-02-11 09:46:21,687 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 37292, position: 53
+
+2015-02-11 09:46:21,688 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_ID' attribute is invalid - The value 'PMT684144N-1100-175170150' is invalid according to its datatype 'String' - The actual length is greater than the MaxLength value.> Occurred on line: 37391, position: 19
+
+2015-02-11 09:46:21,689 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 37391, position: 54
+
+2015-02-11 09:46:21,689 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 37416, position: 53
+
+2015-02-11 09:46:21,690 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 37464, position: 52
+
+2015-02-11 09:46:21,697 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 38056, position: 52
+
+2015-02-11 09:46:21,699 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 38218, position: 53
+
+2015-02-11 09:46:21,700 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 38242, position: 52
+
+2015-02-11 09:46:21,707 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 38911, position: 53
+
+2015-02-11 09:46:21,709 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 39050, position: 53
+
+2015-02-11 09:46:21,712 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 39243, position: 52
+
+2015-02-11 09:46:21,714 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 39433, position: 53
+
+2015-02-11 09:46:21,715 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 39536, position: 52
+
+2015-02-11 09:46:21,723 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 40179, position: 52
+
+2015-02-11 09:46:21,726 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 40432, position: 52
+
+2015-02-11 09:46:21,726 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_AXIS' attribute is invalid - The value '-30' is invalid according to its datatype 'Integer' - The MinInclusive constraint failed.> Occurred on line: 40432, position: 170
+
+2015-02-11 09:46:21,732 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 40911, position: 52
+
+2015-02-11 09:46:21,732 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 40913, position: 53
+
+2015-02-11 09:46:21,736 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 41249, position: 53
+
+2015-02-11 09:46:21,740 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 41490, position: 53
+
+2015-02-11 09:46:21,752 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 42582, position: 52
+
+2015-02-11 09:46:21,756 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 42815, position: 52
+
+2015-02-11 09:46:21,757 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 42936, position: 52
+
+2015-02-11 09:46:21,765 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 43630, position: 53
+
+2015-02-11 09:46:21,769 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 43968, position: 53
+
+2015-02-11 09:46:21,773 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 44284, position: 52
+
+2015-02-11 09:46:21,783 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 45226, position: 53
+
+2015-02-11 09:46:21,824 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 48935, position: 52
+
+2015-02-11 09:46:21,831 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 49505, position: 53
+
+2015-02-11 09:46:21,837 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 49986, position: 52
+
+2015-02-11 09:46:21,842 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 50447, position: 53
+
+2015-02-11 09:46:21,844 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 50537, position: 51
+
+2015-02-11 09:46:21,850 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 51025, position: 50
+
+2015-02-11 09:46:21,857 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 51601, position: 50
+
+2015-02-11 09:46:21,859 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 51804, position: 50
+
+2015-02-11 09:46:21,860 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 51821, position: 51
+
+2015-02-11 09:46:21,864 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 52171, position: 51
+
+2015-02-11 09:46:21,870 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 52661, position: 52
+
+2015-02-11 09:46:21,872 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 52885, position: 51
+
+2015-02-11 09:46:21,874 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 53027, position: 51
+
+2015-02-11 09:46:21,880 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 53493, position: 51
+
+2015-02-11 09:46:21,885 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 53939, position: 52
+
+2015-02-11 09:46:21,890 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 54309, position: 51
+
+2015-02-11 09:46:21,891 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 54336, position: 51
+
+2015-02-11 09:46:21,892 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 54443, position: 50
+
+2015-02-11 09:46:21,895 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 54655, position: 52
+
+2015-02-11 09:46:21,899 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 54996, position: 51
+
+2015-02-11 09:46:21,901 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 55217, position: 52
+
+2015-02-11 09:46:21,908 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 55820, position: 51
+
+2015-02-11 09:46:21,910 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 55974, position: 51
+
+2015-02-11 09:46:21,914 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 56282, position: 51
+
+2015-02-11 09:46:21,915 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 56364, position: 51
+
+2015-02-11 09:46:21,919 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 56699, position: 52
+
+2015-02-11 09:46:21,923 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 56976, position: 51
+
+2015-02-11 09:46:21,926 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 57237, position: 52
+
+2015-02-11 09:46:21,927 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 57257, position: 51
+
+2015-02-11 09:46:21,932 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 57741, position: 51
+
+2015-02-11 09:46:21,939 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 58355, position: 51
+
+2015-02-11 09:46:21,940 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 58373, position: 51
+
+2015-02-11 09:46:21,944 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 58733, position: 51
+
+2015-02-11 09:46:21,947 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 58947, position: 51
+
+2015-02-11 09:46:21,948 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 58973, position: 50
+
+2015-02-11 09:46:21,948 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 59001, position: 49
+
+2015-02-11 09:46:21,949 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 59003, position: 52
+
+2015-02-11 09:46:21,950 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 59132, position: 51
+
+2015-02-11 09:46:21,952 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 59207, position: 52
+
+2015-02-11 09:46:21,952 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 59242, position: 50
+
+2015-02-11 09:46:21,956 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 59573, position: 52
+
+2015-02-11 09:46:21,957 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 59589, position: 51
+
+2015-02-11 09:46:21,965 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 60270, position: 51
+
+2015-02-11 09:46:21,971 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 60832, position: 51
+
+2015-02-11 09:46:21,974 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 61031, position: 53
+
+2015-02-11 09:46:21,978 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 61351, position: 53
+
+2015-02-11 09:46:21,987 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 62173, position: 52
+
+2015-02-11 09:46:21,988 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 62200, position: 53
+
+2015-02-11 09:46:22,000 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 63309, position: 53
+
+2015-02-11 09:46:22,006 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_ID' attribute is invalid - The value 'PMT688144D-1800-125120100' is invalid according to its datatype 'String' - The actual length is greater than the MaxLength value.> Occurred on line: 63782, position: 19
+
+2015-02-11 09:46:22,007 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 63782, position: 54
+
+2015-02-11 09:46:22,008 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 63791, position: 53
+
+2015-02-11 09:46:22,022 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 65104, position: 51
+
+2015-02-11 09:46:22,023 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 65160, position: 53
+
+2015-02-11 09:46:22,024 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 65169, position: 53
+
+2015-02-11 09:46:22,024 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 65171, position: 53
+
+2015-02-11 09:46:22,028 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 65449, position: 53
+
+2015-02-11 09:46:22,029 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 65508, position: 52
+
+2015-02-11 09:46:22,031 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 65652, position: 53
+
+2015-02-11 09:46:22,041 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 66594, position: 53
+
+2015-02-11 09:46:22,052 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 67603, position: 52
+
+2015-02-11 09:46:22,054 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 67740, position: 51
+
+2015-02-11 09:46:22,056 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 67849, position: 52
+
+2015-02-11 09:46:22,058 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 68003, position: 53
+
+2015-02-11 09:46:22,064 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 68540, position: 53
+
+2015-02-11 09:46:22,064 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 68541, position: 53
+
+2015-02-11 09:46:22,065 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 68576, position: 52
+
+2015-02-11 09:46:22,070 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 69015, position: 52
+
+2015-02-11 09:46:22,084 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 70281, position: 53
+
+2015-02-11 09:46:22,088 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 70547, position: 53
+
+2015-02-11 09:46:22,090 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 70674, position: 52
+
+2015-02-11 09:46:22,107 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 72236, position: 53
+
+2015-02-11 09:46:22,110 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 72480, position: 52
+
+2015-02-11 09:46:22,113 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 72787, position: 53
+
+2015-02-11 09:46:22,117 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 73043, position: 53
+
+2015-02-11 09:46:22,117 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 73083, position: 52
+
+2015-02-11 09:46:22,121 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 73403, position: 51
+
+2015-02-11 09:46:22,122 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 73419, position: 52
+
+2015-02-11 09:46:22,125 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 73638, position: 53
+
+2015-02-11 09:46:22,127 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 73815, position: 52
+
+2015-02-11 09:46:22,128 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 73895, position: 51
+
+2015-02-11 09:46:22,129 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 73985, position: 50
+
+2015-02-11 09:46:22,133 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 74249, position: 51
+
+2015-02-11 09:46:22,133 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 74285, position: 50
+
+2015-02-11 09:46:22,145 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 75273, position: 51
+
+2015-02-11 09:46:22,146 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 75374, position: 51
+
+2015-02-11 09:46:22,157 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 76346, position: 51
+
+2015-02-11 09:46:22,158 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 76412, position: 51
+
+2015-02-11 09:46:22,159 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 76510, position: 51
+
+2015-02-11 09:46:22,164 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 76896, position: 52
+
+2015-02-11 09:46:22,165 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 76970, position: 51
+
+2015-02-11 09:46:22,169 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 77272, position: 52
+
+2015-02-11 09:46:22,177 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 77948, position: 52
+
+2015-02-11 09:46:22,177 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 77998, position: 51
+
+2015-02-11 09:46:22,178 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 78017, position: 52
+
+2015-02-11 09:46:22,178 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 78019, position: 51
+
+2015-02-11 09:46:22,182 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 78324, position: 51
+
+2015-02-11 09:46:22,183 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 78373, position: 51
+
+2015-02-11 09:46:22,186 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 78616, position: 52
+
+2015-02-11 09:46:22,192 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 79172, position: 52
+
+2015-02-11 09:46:22,197 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 79597, position: 51
+
+2015-02-11 09:46:22,200 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 79815, position: 52
+
+2015-02-11 09:46:22,203 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 80101, position: 52
+
+2015-02-11 09:46:22,209 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 80528, position: 52
+
+2015-02-11 09:46:22,210 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 80592, position: 51
+
+2015-02-11 09:46:22,215 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 81003, position: 51
+
+2015-02-11 09:46:22,216 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 81113, position: 51
+
+2015-02-11 09:46:22,217 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 81178, position: 52
+
+2015-02-11 09:46:22,219 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 81262, position: 50
+
+2015-02-11 09:46:22,219 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 81285, position: 52
+
+2015-02-11 09:46:22,220 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 81344, position: 51
+
+2015-02-11 09:46:22,222 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 81457, position: 51
+
+2015-02-11 09:46:22,227 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 81869, position: 52
+
+2015-02-11 09:46:22,240 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 82954, position: 51
+
+2015-02-11 09:46:22,242 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 83012, position: 52
+
+2015-02-11 09:46:22,242 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 83031, position: 52
+
+2015-02-11 09:46:22,246 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 83318, position: 50
+
+2015-02-11 09:46:22,257 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_ID' attribute is invalid - The value 'PMT688144N-1050-175110250' is invalid according to its datatype 'String' - The actual length is greater than the MaxLength value.> Occurred on line: 84322, position: 19
+
+2015-02-11 09:46:22,258 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 84322, position: 54
+
+2015-02-11 09:46:22,259 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_ID' attribute is invalid - The value 'PMT688144N-1100-175110250' is invalid according to its datatype 'String' - The actual length is greater than the MaxLength value.> Occurred on line: 84379, position: 19
+
+2015-02-11 09:46:22,259 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 84379, position: 54
+
+2015-02-11 09:46:22,265 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 84835, position: 53
+
+2015-02-11 09:46:22,268 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 85166, position: 52
+
+2015-02-11 09:46:22,271 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 85329, position: 52
+
+2015-02-11 09:46:22,271 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 85336, position: 52
+
+2015-02-11 09:46:22,283 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 86456, position: 50
+
+2015-02-11 09:46:22,287 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 86727, position: 53
+
+2015-02-11 09:46:22,294 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 87290, position: 53
+
+2015-02-11 09:46:22,294 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 87292, position: 53
+
+2015-02-11 09:46:22,315 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 89114, position: 53
+
+2015-02-11 09:46:22,319 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 89474, position: 52
+
+2015-02-11 09:46:22,320 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 89501, position: 52
+
+2015-02-11 09:46:22,325 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 89958, position: 52
+
+2015-02-11 09:46:22,330 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 90351, position: 52
+
+2015-02-11 09:46:22,331 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 90427, position: 53
+
+2015-02-11 09:46:22,332 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 90432, position: 52
+
+2015-02-11 09:46:22,339 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 91001, position: 53
+
+2015-02-11 09:46:22,342 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 91276, position: 51
+
+2015-02-11 09:46:22,345 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 91531, position: 52
+
+2015-02-11 09:46:22,346 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 91580, position: 52
+
+2015-02-11 09:46:22,355 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 92285, position: 53
+
+2015-02-11 09:46:22,359 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 92604, position: 53
+
+2015-02-11 09:46:22,370 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 93539, position: 52
+
+2015-02-11 09:46:22,383 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 94679, position: 52
+
+2015-02-11 09:46:22,387 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 94903, position: 52
+
+2015-02-11 09:46:22,387 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 94920, position: 51
+
+2015-02-11 09:46:22,388 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 94961, position: 51
+
+2015-02-11 09:46:22,389 [1] INFO  XmlVerifyConsole.ReadData [OnValidationEventHandler XmlVerifyConsole.ReadData] [(null)] - <The 'PRD_UPC_CODE' attribute is invalid - The value '' is invalid according to its datatype 'String' - The actual length is less than the MinLength value.> Occurred on line: 94964, position: 50
+
